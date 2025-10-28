@@ -1,0 +1,49 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Klausurtagung Hessische Lehrkräfteakademie",
+    "description": "",
+    "home_page_url": "https://ebildungslabor.github.io/klausurtagung-hessen",
+    "feed_url": "https://ebildungslabor.github.io/klausurtagung-hessen/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nele Hirsch"
+    },
+    "items": [
+        {
+            "id": "https://ebildungslabor.github.io/klausurtagung-hessen/impulse-zum-transfer-in-schule-und-schulentwicklung/",
+            "url": "https://ebildungslabor.github.io/klausurtagung-hessen/impulse-zum-transfer-in-schule-und-schulentwicklung/",
+            "title": "Impulse zum Transfer in Schule und Schulentwicklung",
+            "author": {
+                "name": "Nele Hirsch"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-28T11:32:46+01:00",
+            "date_modified": "2025-10-28T11:32:46+01:00"
+        },
+        {
+            "id": "https://ebildungslabor.github.io/klausurtagung-hessen/ki-interaktion-im-kontext-der-bildung/",
+            "url": "https://ebildungslabor.github.io/klausurtagung-hessen/ki-interaktion-im-kontext-der-bildung/",
+            "title": "KI-Interaktion im Kontext der Bildung",
+            "author": {
+                "name": "Nele Hirsch"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-28T11:32:09+01:00",
+            "date_modified": "2025-10-28T11:32:09+01:00"
+        },
+        {
+            "id": "https://ebildungslabor.github.io/klausurtagung-hessen/lernen-und-digitalitaet/",
+            "url": "https://ebildungslabor.github.io/klausurtagung-hessen/lernen-und-digitalitaet/",
+            "title": "Lernen und Digitalität",
+            "author": {
+                "name": "Nele Hirsch"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-28T11:30:02+01:00",
+            "date_modified": "2025-10-28T11:30:02+01:00"
+        }
+    ]
+}

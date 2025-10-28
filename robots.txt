@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ebildungslabor.github.io/klausurtagung-hessen/sitemap.xml
