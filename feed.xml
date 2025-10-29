@@ -3,12 +3,35 @@
     <title>Klausurtagung Hessische Lehrkräfteakademie</title>
     <link href="https://ebildungslabor.github.io/klausurtagung-hessen/feed.xml" rel="self" />
     <link href="https://ebildungslabor.github.io/klausurtagung-hessen" />
-    <updated>2025-10-28T11:32:46+01:00</updated>
+    <updated>2025-10-29T12:26:34+01:00</updated>
     <author>
         <name>Nele Hirsch</name>
     </author>
     <id>https://ebildungslabor.github.io/klausurtagung-hessen</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Nele Hirsch</name>
+        </author>
+        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/test/"/>
+        <id>https://ebildungslabor.github.io/klausurtagung-hessen/test/</id>
+
+        <updated>2025-10-29T12:26:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Thema anzeigen
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div style="text-align: center;"><button id="thema-button">Thema anzeigen</button></div>
+<div id="thema-container">
+<div id="thema-anzeige"></div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Impulse zum Transfer in Schule und Schulentwicklung</title>
         <author>
