@@ -3,69 +3,85 @@
     <title>Klausurtagung Hessische Lehrkräfteakademie</title>
     <link href="https://ebildungslabor.github.io/klausurtagung-hessen/feed.xml" rel="self" />
     <link href="https://ebildungslabor.github.io/klausurtagung-hessen" />
-    <updated>2025-10-29T12:26:34+01:00</updated>
+    <updated>2025-11-01T13:56:40+01:00</updated>
     <author>
         <name>Nele Hirsch</name>
     </author>
     <id>https://ebildungslabor.github.io/klausurtagung-hessen</id>
 
     <entry>
-        <title>Test</title>
+        <title>3. Methodischer Transfer</title>
         <author>
             <name>Nele Hirsch</name>
         </author>
-        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/test/"/>
-        <id>https://ebildungslabor.github.io/klausurtagung-hessen/test/</id>
+        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/impuls3/"/>
+        <id>https://ebildungslabor.github.io/klausurtagung-hessen/impuls3/</id>
 
-        <updated>2025-10-29T12:26:34+01:00</updated>
+        <updated>2025-10-28T11:32:46+01:00</updated>
             <summary>
                 <![CDATA[
-                    Thema anzeigen
+                    <p>Anfragen nicht als Bedürfnisse missverstehen, das Wie vor das Was stellen, auf Freiwilligkeit orientieren, Technologie als Lerngegenstand reflektieren und "Knisterfragen" nutzen.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div style="text-align: center;"><button id="thema-button">Thema anzeigen</button></div>
-<div id="thema-container">
-<div id="thema-anzeige"></div>
-</div>
+                <p>Anfragen nicht als Bedürfnisse missverstehen, das Wie vor das Was stellen, auf Freiwilligkeit orientieren, Technologie als Lerngegenstand reflektieren und "Knisterfragen" nutzen.</p>
+
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Impulse zum Transfer in Schule und Schulentwicklung</title>
+        <title>2. KI im Kontext der Bildung</title>
         <author>
             <name>Nele Hirsch</name>
         </author>
-        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/impulse-zum-transfer-in-schule-und-schulentwicklung/"/>
-        <id>https://ebildungslabor.github.io/klausurtagung-hessen/impulse-zum-transfer-in-schule-und-schulentwicklung/</id>
-
-        <updated>2025-10-28T11:32:46+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>KI-Interaktion im Kontext der Bildung</title>
-        <author>
-            <name>Nele Hirsch</name>
-        </author>
-        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/ki-interaktion-im-kontext-der-bildung/"/>
-        <id>https://ebildungslabor.github.io/klausurtagung-hessen/ki-interaktion-im-kontext-der-bildung/</id>
+        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/impuls2/"/>
+        <id>https://ebildungslabor.github.io/klausurtagung-hessen/impuls2/</id>
 
         <updated>2025-10-28T11:32:09+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    <p>Funktionsweise von KI-Technologie verstehen und daraus eine kontra-intuitive Nutzung von großen Sprachmodellen als Resonanz- statt Antwortmaschine ableiten. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Funktionsweise von KI-Technologie verstehen und daraus eine kontra-intuitive Nutzung von großen Sprachmodellen als Resonanz- statt Antwortmaschine ableiten. </p>
+
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Lernen und Digitalität</title>
+        <title>1. Lernen und Digitalität</title>
         <author>
             <name>Nele Hirsch</name>
         </author>
-        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/lernen-und-digitalitaet/"/>
-        <id>https://ebildungslabor.github.io/klausurtagung-hessen/lernen-und-digitalitaet/</id>
+        <link href="https://ebildungslabor.github.io/klausurtagung-hessen/impuls1/"/>
+        <id>https://ebildungslabor.github.io/klausurtagung-hessen/impuls1/</id>
 
         <updated>2025-10-28T11:30:02+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    <p>Mehr Komposterde statt Zementmischer, den Nordstern der Gestaltungsfähigkeit in den Blick nehmen und mit einer Shruggie-Haltung gestalten</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Mehr Komposterde statt Zementmischer, den Nordstern der Gestaltungsfähigkeit in den Blick nehmen und mit einer Shruggie-Haltung gestalten</p>
+
+<h2>Drei Thesen zum Weiterdenken</h2>
+<p class="msg--highlight  msg--info msg">Schulen reagieren auf neue Herausforderungen oft mit Abwehr, mit Anpassung oder mit Einverleibung der Veränderungen ins bestehende System. Alles drei sind keine guten Lösungen. Besser wäre es, neue Herausforderung nicht als Überforderung betrachten, sondern als Überfluss zu reframen und somit gestaltend zu handeln.</p>
+<p class="msg msg--info">Wer gestaltend handeln will, braucht Klarheit über das Warum. Aus der Erkenntnis, dass Gestaltung in einer sich schnell verändernden Welt notwendig ist, ergibt sich der Nordstern, dass Bildung zur Gestaltung guter Zukünfte befähigen muss. Gestaltungsfähigkeit wird somit selbst zum Nordstern pädagogischen Handelns.</p>
+<p class="msg msg--info">Das Wie des pädagogischen Handelns mit dem Nordstern der Gestaltungsfähigkeit im Blick braucht drei Säulen: Growth Mindset, kollektive Wirksamkeit und Resilienz. Digitalisierung wirkt hier widersprüchlich und verstärkend. Eine Shruggie-Haltung hilft uns, innerhalb von Widersprüchen zu gestalten. ¯\_(ツ)_/¯ </p>
+<p>👉Was besagen diese Thesen? Wie stehen wir dazu? Was leiten wir daraus für unsere Tätigkeit in Lerngestaltung und Schulentwicklung ab?</p>
+<h2>Micro-Content zum Weiternutzen</h2>
+<h2>Referenzen und Links zur Vertiefung</h2>
+            ]]>
+        </content>
     </entry>
 </feed>
